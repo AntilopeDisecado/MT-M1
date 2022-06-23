@@ -132,7 +132,7 @@ function getFood(food) {
 
 getFood(false);
 
-// Undefined. La función espera un string y recibe un boolean false.
+// Undefined. La función espera un string y recibe un boolean false. 
 ```
 
 
