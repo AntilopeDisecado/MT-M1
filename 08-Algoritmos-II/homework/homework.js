@@ -37,7 +37,7 @@ function mergeSort(array) {
   // el array recibido como parámetro
   // Devolver el array ordenado resultante
   // Tu código:
-  if (array.lenght === 1) return array;
+  if (array.length === 1) return array;
 var half = divide(array);
 var left = half[0];
 var right = half[1];
